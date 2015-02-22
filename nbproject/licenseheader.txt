@@ -1,0 +1,9 @@
+/*
+* @Title Droplets
+* @Author Electrode Personal Computers LLC
+* 
+* License is distributed with the software at all times.  The license can be found in the files license.txt and license.html
+* 
+* Droplets is a registered trademark of Electrode Personal Computers LLC
+* Copyright Electrode Personal Computer LLC 2014
+*/
