@@ -2,12 +2,12 @@
 
 /*
 * @Title Icy
-* @Author Dev Mage Tech LLC
+* @Author Tempest Dev LLC
 * 
 * License is distributed with the software at all times.  The license can be found in the files license.txt and license.html
 * 
-* Droplets is a registered trademark of Dev Mage Tech LLC
-* Copyright Dev Mage Tech LLC 2015
+* Icy is a registered trademark of Tempest Dev LLC
+* Copyright Tempest Dev LLC 2015
 */
 
 //MySQL Information

@@ -10,15 +10,15 @@ License Summary
 - Support provided as follows :
      - Application maintenance only includes repairing faults that causes the software not to work as intended and does not cover improperly setup run environments.
 -Attribution to software creator must be made as specified:
-     - Powered by <a href="http://icy.devmagetech.com/">Icy</a>
+     - Powered by <a href="http://icy.tempestdev.com/">Icy</a>
 - Software trademarks are included in the license
 - Software patents are included in the license
 - Additional terms:
-     - Dev Mage Tech LLC is not liable for any harm this software may render to any entity or hardware. Use at your own risk.
+     - Tempest Dev LLC is not liable for any harm this software may render to any entity or hardware. Use at your own risk.
 ----------------------------------
 Terms and conditions
 ----------------------------------
-1) Preamble: This Agreement, signed on Aug 29, 2014 [hereinafter: Effective Date] governs the relationship between Public, a private person, (hereinafter: Licensee) and Dev Mage Tech LLC, a duly registered company in NJ, United States whose principal place of business is 208 Main St, Keansburg, NJ 07734, NJ, United States (Hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using [Icy] (hereinafter: The Software) created and owned by Licensor, as detailed herein
+1) Preamble: This Agreement, signed on Aug 29, 2014 [hereinafter: Effective Date] governs the relationship between Public, a private person, (hereinafter: Licensee) and Tempest Dev LLC, a duly registered company in NJ, United States whose principal place of business is 208 Main St, Keansburg, NJ 07734, NJ, United States (Hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using [Icy] (hereinafter: The Software) created and owned by Licensor, as detailed herein
 2) License Grant: Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Commercial, Royalty free, Including the rights to distribute derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
      1. Limited: Licensee may use Software for the purpose of:
         1. Running Software on Licensee’s Website[s] and Server[s];
@@ -30,7 +30,7 @@ Terms and conditions
      3. Commercial, Royalty Free: Licensee may use Software for any purpose, including paid-services, without any royalties
      4. Including the Right to Create Derivative Works: Licensee may create derivative works based on Software, including amending Software’s source code, modifying it, integrating it into a larger work or removing portions of Software, as long as no distribution of the derivative works is made
      5. Including the right to Distribute Derivative Works: Licensee may create and distribute derivative works based on Software, including amending Software’s source code, modifying it, integrating it into a larger work or removing portions of Software, as long as credit to the Licensor is granted and that redistribution is made under the terms of this license.
-     6. With Attribution Requirements﻿: Dev Mage Tech LLC
+     6. With Attribution Requirements﻿: Tempest Dev LLC
      7. [Multi-]Site: Licensee may use Software on 1 server[s] and 1 website[s], for Licensee’s websites only
      8. With support & maintenance: Licensor shall provide Licensee support and maintenance as follows - 
         1. Application maintenance only includes repairing faults that causes the software not to work as intended and does not cover improperly setup run environments.
